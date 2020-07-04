@@ -48,7 +48,7 @@ const anime = require('animejs');
 
 #### File include
 
-Link `anime.min.js` in your HTML :
+Link `anime.min.js` в ваш HTML :
 
 ```html
 <script src="anime.min.js"></script>
